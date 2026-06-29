@@ -1,0 +1,21 @@
+{
+  "name": "Café INACAP",
+  "short_name": "Café INACAP",
+  "description": "Pide tu café Nescafé y retíralo en tu sede INACAP.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6F1",
+  "theme_color": "#8B5E3C",
+  "icons": [
+    {
+      "src": "/inacafe.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/inacafe.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
